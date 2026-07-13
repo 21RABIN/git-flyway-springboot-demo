@@ -1,3 +1,3 @@
 # Git Flyway Spring Boot Demo
 
-Demo repository for presentation screenshots with Git, GitHub, Flyway, and Spring Boot workflow examples.
+Main branch changes README differently for conflict demonstration.
